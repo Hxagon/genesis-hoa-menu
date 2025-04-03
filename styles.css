@@ -1,0 +1,22 @@
+BODY {
+    background-color: light-gray;
+}
+
+HEADER {
+	background-color: #777;
+	height: 145px;
+	line-height: 145px;
+	text-align: center;
+	background-image: url(logo.png);
+	background-repeat: no-repeat;
+	background-size: 8%;
+}
+
+HEADER SPAN {
+	font-size: 45px;
+	color: white;
+}
+
+.nav-item {
+	margin: 0 15px 0 15px;
+}
