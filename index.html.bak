@@ -25,7 +25,7 @@
 	
     <main style="height: 100%; width: 100%;";>
         <div>
-			<img style="width: 20%; height: 100%; display: block; margin: auto;" src="https://rawcdn.githack.com/Hxagon/genesis-hoa-menu/60a17eca40fc2dba1a9c61a9cbaacedbc83d6213/preisliste.jpg"/>
+			<img style="width: 20%; height: 100%; display: block; margin: auto;" src="preisliste.jpg"/>
 		</div>
     </main>
 
