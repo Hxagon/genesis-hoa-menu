@@ -7,7 +7,7 @@ HEADER {
 	height: 145px;
 	line-height: 145px;
 	text-align: center;
-	background-image: url(https://github.com/Hxagon/genesis-hoa-menu/blob/main/logo.png);
+	background-image: url("https://github.com/Hxagon/genesis-hoa-menu/blob/main/logo.png");
 	background-repeat: no-repeat;
 	background-size: 8%;
 }
