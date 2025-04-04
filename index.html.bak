@@ -101,7 +101,6 @@
 	<script> 
 		$(function(){
 			$('head').append( $('<link rel="stylesheet" type="text/css" />').attr('href', 'https://rawcdn.githack.com/Hxagon/genesis-hoa-menu/refs/heads/main/styles.css') );
-			$("#ext_navigation").load("https://raw.githubusercontent.com/Hxagon/genesis-hoa-menu/refs/heads/main/nav.html");
 		});
 		
     </script> 
